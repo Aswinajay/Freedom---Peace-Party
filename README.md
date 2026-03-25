@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/badge/Privacy-ZK--Proofs-black?style=for-the-badge&logo=security" alt="Zero-Knowledge Proofs" />
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
   </p>
+
+  <p>
+    <b>📜 <a href="🌍%20FREEDOM%20&%20PEACE%20PARTY.txt">Read the Original Manifesto Document (v9.0)</a> 📜</b>
+  </p>
 </div>
 
 ## 📖 Overview
