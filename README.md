@@ -3,6 +3,13 @@
 <div align="center">
   <h3>"Born From Pain. Built From Hope. Verified By People. Applied In Real Politics. Owned By All Humanity. Forever."</h3>
   <p><em>The Complete Grand Unified Manifesto — Ultimate Master Edition v9.0</em></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Cross--Platform%20(React%20Native)-blue?style=for-the-badge&logo=react" alt="React Native Platform" />
+    <img src="https://img.shields.io/badge/Blockchain-Polygon%20L2-8247E5?style=for-the-badge&logo=polygon" alt="Polygon Blockchain" />
+    <img src="https://img.shields.io/badge/Privacy-ZK--Proofs-black?style=for-the-badge&logo=security" alt="Zero-Knowledge Proofs" />
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
+  </p>
 </div>
 
 ## 📖 Overview
@@ -101,3 +108,8 @@ We welcome contributions from developers, activists, and visionaries! Please see
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🔍 Keywords & Topics
+*Freedom & Peace Party, Decentralized Governance, ZK Proofs, Polygon Blockchain, Smart Contracts, Anonymous Voting, Web3 Democracy, React Native Mobile App, Open Source Politics, Civic Tech, Global Democratic Participation, Universal Basic Income, Digital Freedom, Manifesto V9.0.*

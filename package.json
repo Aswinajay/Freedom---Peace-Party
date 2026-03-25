@@ -1,6 +1,8 @@
 {
-  "name": "app",
+  "name": "freedom-peace-party-app",
   "version": "1.0.0",
+  "description": "The official Freedom & Peace Party application. A decentralized, blockchain-secured, ZK-proof verified political platform for global democratic participation.",
+  "keywords": ["react-native", "expo", "blockchain", "decentralized-governance", "zk-proofs", "polygon", "democracy", "voting-app", "civic-tech", "open-source"],
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
